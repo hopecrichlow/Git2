@@ -8,5 +8,5 @@ This super awesome
 * Kinda, cool
 * Meh, not really
 
-[This is a link} (http://www.github.com)]
+[This is a link] (http://www.github.com)]
 
